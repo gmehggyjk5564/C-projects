@@ -1,0 +1,183 @@
+Script started on Tue 16 Oct 2018 09:19:03 PM EDT
+bash-4.2$ pwd
+/gaul/s1/student/2018/spryadko/Courses/CS2211a/Asns/asn2
+bash-4.2$ date
+Tue Oct 16 21:19:43 EDT 2018
+bash-4.2$ who am i
+spryadko pts/2        2018-10-16 21:19
+bash-4.2$ ./part1
+		Welcome! This converter helps to convert between imperial and metric values!
+
+
+Enter 1-5 to choose an action:
+
+1 for conversion between Kilometer and Mile
+2 for conversion between Meter and Feet
+3 for conversion between Centimetre and Inch
+4 for conversion between Celsius and Fahrenheit
+5 for quit
+
+Enter action number: 99
+
+Enter action number: 111
+
+Enter action number: 1
+
+Enter 'K' for conversion from Kilometer to Mile: Enter 'M' for conversion from Mile to Kilometer: t
+
+You entered an invalid character!
+
+Enter 'K' for conversion from Kilometer to Mile: Enter 'M' for conversion from Mile to Kilometer: Y
+
+You entered an invalid character!
+
+Enter 'K' for conversion from Kilometer to Mile: Enter 'M' for conversion from Mile to Kilometer: K
+
+Enter km value: 1267
+
+		Result: 1267.000000 km is equal to: 787.277039 mi.
+
+
+Enter 1-5 to choose an action:
+
+1 for conversion between Kilometer and Mile
+2 for conversion between Meter and Feet
+3 for conversion between Centimetre and Inch
+4 for conversion between Celsius and Fahrenheit
+5 for quit
+
+Enter action number: 1
+
+Enter 'K' for conversion from Kilometer to Mile: Enter 'M' for conversion from Mile to Kilometer: M
+
+Enter mi value: 4.732
+
+		Result: 4.732000 mi is equal to: 7.615416 km.
+
+
+Enter 1-5 to choose an action:
+
+1 for conversion between Kilometer and Mile
+2 for conversion between Meter and Feet
+3 for conversion between Centimetre and Inch
+4 for conversion between Celsius and Fahrenheit
+5 for quit
+
+Enter action number: 2
+
+Enter 'M' for conversion from Meter to Feet: Enter 'F' for conversion from Feet to Meter: M
+
+Enter m value: 1286
+
+		Result: 1286.000000 m is equal to: 4219.160156 ft.
+
+
+Enter 1-5 to choose an action:
+
+1 for conversion between Kilometer and Mile
+2 for conversion between Meter and Feet
+3 for conversion between Centimetre and Inch
+4 for conversion between Celsius and Fahrenheit
+5 for quit
+
+Enter action number: 2
+
+Enter 'M' for conversion from Meter to Feet: Enter 'F' for conversion from Feet to Meter: F
+
+Enter ft value: 3.876
+
+		Result: 3.876000 ft is equal to: 1.181405 m.
+
+
+Enter 1-5 to choose an action:
+
+1 for conversion between Kilometer and Mile
+2 for conversion between Meter and Feet
+3 for conversion between Centimetre and Inch
+4 for conversion between Celsius and Fahrenheit
+5 for quit
+
+Enter action number: 8
+
+Enter action number: 3
+
+Enter 'C' for conversion from Centimetre to Inch: Enter 'I' for conversion from Inch to Centimetre: V
+
+You entered an invalid character!
+
+Enter 'C' for conversion from Centimetre to Inch: Enter 'I' for conversion from Inch to Centimetre: C
+
+Enter cm value: 24.7
+
+		Result: 24.700001 cm is equal to: 9.724415 in.
+
+
+Enter 1-5 to choose an action:
+
+1 for conversion between Kilometer and Mile
+2 for conversion between Meter and Feet
+3 for conversion between Centimetre and Inch
+4 for conversion between Celsius and Fahrenheit
+5 for quit
+
+Enter action number: 3
+
+Enter 'C' for conversion from Centimetre to Inch: Enter 'I' for conversion from Inch to Centimetre: I
+
+Enter in value: 345.2
+
+		Result: 345.200012 in is equal to: 876.808044 cm.
+
+
+Enter 1-5 to choose an action:
+
+1 for conversion between Kilometer and Mile
+2 for conversion between Meter and Feet
+3 for conversion between Centimetre and Inch
+4 for conversion between Celsius and Fahrenheit
+5 for quit
+
+Enter action number: 4
+
+Enter 'C' for conversion from Celsius to Fahrenheit: Enter 'F' for conversion from Fahrenheit to Celsius: r
+
+You entered an invalid character!
+
+Enter 'C' for conversion from Celsius to Fahrenheit: Enter 'F' for conversion from Fahrenheit to Celsius: C
+
+Enter Celsius value: -3
+
+		Result: -3.000000 Celsius is equal to 26.600000 Fahrenheit.
+
+
+Enter 1-5 to choose an action:
+
+1 for conversion between Kilometer and Mile
+2 for conversion between Meter and Feet
+3 for conversion between Centimetre and Inch
+4 for conversion between Celsius and Fahrenheit
+5 for quit
+
+Enter action number: 4
+
+Enter 'C' for conversion from Celsius to Fahrenheit: Enter 'F' for conversion from Fahrenheit to Celsius: F
+
+Enter Fahrenheit value: 5.3
+
+		Result: 5.300000 Fahrenheit is equal to -14.833334 Celsius.
+
+
+Enter 1-5 to choose an action:
+
+1 for conversion between Kilometer and Mile
+2 for conversion between Meter and Feet
+3 for conversion between Centimetre and Inch
+4 for conversion between Celsius and Fahrenheit
+5 for quit
+
+Enter action number: 5
+
+bash-4.2$ exit
+exit
+
+Script done on Tue 16 Oct 2018 09:25:34 PM EDT

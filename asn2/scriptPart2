@@ -1,0 +1,65 @@
+Script started on Tue 16 Oct 2018 09:32:14 PM EDT
+bash-4.2$ pwd
+/gaul/s1/student/2018/spryadko/Courses/CS2211a/Asns/asn2
+bash-4.2$ date
+Tue Oct 16 21:32:22 EDT 2018
+bash-4.2$ who am i
+spryadko pts/13       2018-10-16 21:32
+bash-4.2$ ./part2
+		Welcome! This is the Exponential Number Calculator!
+
+Enter the base: 2
+
+Enter the exponent: 6
+
+
+The exponential number with base 2.000000 and exponent 6 is 64.000000.
+
+bash-4.2$ ./part2
+		Welcome! This is the Exponential Number Calculator!
+
+Enter the base: 2.5
+
+Enter the exponent: 4
+
+
+The exponential number with base 2.500000 and exponent 4 is 39.062500.
+
+bash-4.2$ ./part2
+		Welcome! This is the Exponential Number Calculator!
+
+Enter the base: 0
+
+Enter the exponent: 34
+
+
+The exponential number with base 0.000000 and exponent 34 is 0.000000.
+
+bash-4.2$ ./part2
+		Welcome! This is the Exponential Number Calculator!
+
+Enter the base: 1
+
+Enter the exponent: 42
+
+
+The exponential number with base 1.000000 and exponent 42 is 1.000000.
+
+bash-4.2$ ./part2
+		Welcome! This is the Exponential Number Calculator!
+
+Enter the base: -6
+
+Please enter a positive number for the base!
+
+Enter the base: 3.1
+
+Enter the exponent: -3
+
+
+The exponential number with base 3.100000 and exponent -3 is 0.033567.
+
+bash-4.2$ exit
+exit
+
+Script done on Tue 16 Oct 2018 09:35:04 PM EDT

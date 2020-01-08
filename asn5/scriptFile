@@ -1,0 +1,49 @@
+Script started on Sat 01 Dec 2018 11:27:40 PM EST
+bash-4.2$ pwd
+/gaul/s1/student/2018/spryadko/Courses/CS2211a/Asns/asn5
+bash-4.2$ date
+Sat Dec  1 23:27:45 EST 2018
+bash-4.2$ who am i
+spryadko pts/16       2018-12-01 23:27
+bash-4.2$ ./mymatrix < sampleInput
+
+
+Please enter a pair of 1st string and 2nd string  : 
+String 1                String 2                Occurrence
+aab                 	aab                 	1
+aab                 	abb                 	1
+bba                 	aa                  	2
+bba                 	aaa                 	1
+bash-4.2$ ./mymatrix
+
+
+Please enter a pair of 1st string and 2nd string  : 
+itypeastring seconfstring
+anotherstring imtypingsmth
+   blah blahhh
+workingonassign andu   
+      blue      umbrella
+ blah blahhh
+String 1                String 2                Occurrence
+anotherstring       	imtypingsmth        	1
+blah                	blahhh              	2
+blue                	umbrella            	1
+itypeastring        	seconfstring        	1
+workingonassign     	andu                	1
+bash-4.2$ ./mymatrix
+
+
+Please enter a pair of 1st string and 2nd string  : 
+  draw flower and i go To the nearest sToREcv  and that is great i
+String 1                String 2                Occurrence
+and                 	i                   	1
+draw                	flower              	1
+go                  	To                  	1
+great               	i                   	1
+sToREcv             	and                 	1
+that                	is                  	1
+the                 	nearest             	1
+bash-4.2$ exit
+exit
+
+Script done on Sat 01 Dec 2018 11:32:47 PM EST

@@ -1,0 +1,41 @@
+Script started on Tue 30 Oct 2018 11:43:05 PM EDT
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/spryadko/Courses/CS2211a/Asns/asn3
+bash-4.2$ date
+Tue Oct 30 23:43:24 EDT 2018
+bash-4.2$ who am i
+spryadko pts/6        2018-10-30 23:43
+bash-4.2$ ./part1
+		Calculator 'Evaluate' 
+
+Welcome! This calculator, called 'Evaluate' helps to evaluate simple arithmetic expressions!
+
+Enter a simple arithmetic expression: 5
+The result is: 5.000000
+
+Enter 'Y' to continue or 'N' to quit: Y
+Enter a simple arithmetic expression: 3 * 4
+The result is: 12.000000
+
+Enter 'Y' to continue or 'N' to quit: Y
+Enter a simple arithmetic expression: 4 + 3
+The result is: 7.000000
+
+Enter 'Y' to continue or 'N' to quit: Y
+Enter a simple arithmetic expression: 2.6 / 2 - 1.5 * 10
+The result is: -13.700000
+
+Enter 'Y' to continue or 'N' to quit: Y
+Enter a simple arithmetic expression: -2.0 * 2 + 1.5 * 10 - 100
+The result is: -89.000000
+
+Enter 'Y' to continue or 'N' to quit: Y
+Enter a simple arithmetic expression: 3.5 - -1.5 * 10 ? / 3.0 + 2 * 3
+The result is: 14.500000
+
+Enter 'Y' to continue or 'N' to quit: Y
+Enter a simple arithmetic expression: 3.5 - 1.5 % 10 - 2.0
+You entered a non-valid operator!bash-4.2$ exit
+exit
+
+Script done on Tue 30 Oct 2018 11:46:01 PM EDT

@@ -1,0 +1,95 @@
+Script started on Fri 16 Nov 2018 08:37:47 PM EST
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/spryadko/Courses/CS2211a/Asns/asn4
+bash-4.2$ date
+Fri Nov 16 20:37:52 EST 2018
+bash-4.2$ who am i
+spryadko pts/11       2018-11-16 20:37
+bash-4.2$ ./part1
+
+Please enter size of a tree:3
+
+To STOP inserting triples enter 's 1 1'
+
+Please enter triples of name, id and data: 
+tick 3 2
+tock 1 3
+boots 8 89
+red 6 42
+Array out of bound!
+s 1 1
+(boots       8)    89
+(tick       3)    2
+(tock       1)    3
+bash-4.2$ ./part1
+
+Please enter size of a tree:12
+
+To STOP inserting triples enter 's 1 1'
+
+Please enter triples of name, id and data: 
+cart 5 2
+colour 7 11
+tock 1 3
+red 6 42
+Array out of bound!
+s 1 1
+(cart       5)    2
+(colour       7)    11
+(tock       1)    3
+bash-4.2$ ./part1
+
+Please enter size of a tree:768
+
+To STOP inserting triples enter 's 1 1'
+
+Please enter triples of name, id and data: 
+kid 2 12
+cart 5 2
+coat 9 4
+tick 3 2
+blue 2 46
+boots 8 89
+tock 1 3
+colour 7 11
+red 6 42
+s 1 1
+(blue       2)    46
+(boots       8)    89
+(cart       5)    2
+(coat       9)    4
+(colour       7)    11
+(kid       2)    12
+(red       6)    42
+(tick       3)    2
+(tock       1)    3
+bash-4.2$ ./part1
+
+Please enter size of a tree:65
+
+To STOP inserting triples enter 's 1 1'
+
+Please enter triples of name, id and data: 
+coat 9 4
+red 6 42
+kid 2 12
+colour 7 11
+cart 5 2
+tock 1 3
+boot 8 89
+tick 3 2
+blue 2 46
+s 1 1
+(blue       2)    46
+(boot       8)    89
+(cart       5)    2
+(coat       9)    4
+(colour       7)    11
+(kid       2)    12
+(red       6)    42
+(tick       3)    2
+(tock       1)    3
+bash-4.2$ exit
+exit
+
+Script done on Fri 16 Nov 2018 08:43:30 PM EST
